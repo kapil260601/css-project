@@ -1,0 +1,33 @@
+body{
+    background-color:#FF67E7;
+    }
+h2,h3{
+    background-color: #00C1D4;
+    color:yellow;
+     }
+h1{
+   background-color: aqua;
+   color:black;
+   border:solid2px yellow;
+   }
+p{
+  background-color:#87A8A4;
+ }
+ hr{
+     border-style:none;
+     background-color:#04009A;
+     height:2px 
+    }
+ ul{
+     color:#FDEFEF;
+ }
+ ol{
+     background-color: burlywood;
+     color:green;
+ } 
+ table{
+     background-color:#FFE3E3;
+     color:red;
+ }  
+
+
